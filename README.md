@@ -38,11 +38,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaurrav-git&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔗 Connect With Me
 - 📧 Email: gauravarora0122@gmail.com
 - 💼 LinkedIn: https://linkedin.com/a-rav

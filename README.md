@@ -1,47 +1,49 @@
-👋 Hi, I'm Gaurav Arora
-🚀 Frontend & Full-Stack Developer | Tech Enthusiast | Problem Solver
+<h1 align="center">Hi 👋, I'm Gaurav Arora</h1>
+<h3 align="center">Frontend & Full-Stack Developer | Tech Enthusiast | Problem Solver</h3>
 
-I love building interactive, scalable, and user-friendly web applications powered by modern technologies.
-Currently exploring AI-driven full-stack solutions and contributing to projects that make an impact.
+---
 
-🧠 Tech Stack
-Languages:
-JavaScript
-Python
-Java
-SQL
+## 🚀 About Me
+- 💻 Passionate Computer Science Student
+- 🌱 Currently exploring AI-driven Full-Stack Solutions
+- 🎯 Focused on building scalable and user-friendly applications
+- 🧠 Regular problem solver on LeetCode
+- 📍 Based in India
 
-Frontend:
-React
-Tailwind CSS
-HTML5
-CSS3
+---
 
-Backend:
-Node.js
-Express.js
-MongoDB
+## 🛠️ Tech Stack
 
-Tools & Platforms:
-VS Code
-Git
-Postman
+### 💻 Languages
+- JavaScript
+- Python
+- Java
+- SQL
 
-📫 Let’s Connect
-📧 Email: gauravarora0122@gmail.com
-💼 LinkedIn: linkedin.com/in/a-rav
-🧑‍💻 LeetCode: https://leetcode.com/u/gaurrav-git/
-<!--
-**gaurrav-git/gaurrav-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎨 Frontend
+- React.js
+- Tailwind CSS
+- HTML5
+- CSS3
 
-Here are some ideas to get you started:
+### ⚙️ Backend
+- Node.js
+- Express.js
+- MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tools
+- VS Code
+- Git & GitHub
+- Postman
+
+---
+
+## 📊 GitHub Stats
+![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaurrav-git&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔗 Connect With Me
+- 📧 Email: gauravarora0122@gmail.com
+- 💼 LinkedIn: https://linkedin.com/a-rav
+- 🧠 LeetCode: https://leetcode.com/u/gaurrav-git/

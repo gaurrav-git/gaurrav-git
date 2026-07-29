@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gaurav Arora</h1>
+<h1 align="center">Hi, I'm Gaurav Arora</h1>
 <h3 align="center">Frontend & Full-Stack Developer | Tech Enthusiast | Problem Solver</h3>
 
 ---
